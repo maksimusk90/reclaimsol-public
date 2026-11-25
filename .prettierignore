@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+build
+coverage
+playwright-report
+test-results
+package-lock.json
+reclaimsol_full_report.txt
+reclaimsol_peers_report.txt
+setup_configs_report.txt
+out.txt

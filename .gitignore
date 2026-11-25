@@ -1,0 +1,28 @@
+*_report.txt
+
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+build/
+
+# Testing
+coverage/
+playwright-report/
+test-results/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment files
+.env*
+!.env.example
+
+# Deployment
+.vercel/
+
+# Diagnostic reports
+*_report.txt
+out.txt
